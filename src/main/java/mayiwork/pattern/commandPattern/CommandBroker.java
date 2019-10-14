@@ -24,9 +24,10 @@ public class CommandBroker {
      * 执行命令
      */
     public void executeCommand() {
-        for (Command command : commands) {
+        commands.forEach(command -> command.execute());
+       /* for (Command command : commands) {
             command.execute();
-        }
+        }*/
     }
 
 }

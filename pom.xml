@@ -78,6 +78,11 @@
             <version>5.11.1</version>
         </dependency>
 
+        <dependency>
+            <groupId>cglib</groupId>
+            <artifactId>cglib</artifactId>
+            <version>2.2.2</version>
+        </dependency>
 
         <!--J2EE-->
         <dependency>
