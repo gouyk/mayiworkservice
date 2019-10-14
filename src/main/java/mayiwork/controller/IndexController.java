@@ -1,4 +1,4 @@
-package java.mayiwork.controller;
+package mayiwork.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -8,6 +8,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class IndexController {
   @RequestMapping("index")
   public String index(){
+
+      Runnable runnable = () -> System.out.println("234234");
+
       return  "index";
   }
 
