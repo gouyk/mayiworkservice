@@ -1,4 +1,4 @@
-package mayiwork.pattern;
+package mayiwork.pattern.BuilderPattern;
 
 import java.util.ArrayList;
 import java.util.List;

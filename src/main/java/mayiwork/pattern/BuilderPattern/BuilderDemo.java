@@ -1,7 +1,5 @@
 package mayiwork.pattern.BuilderPattern;
 
-import mayiwork.pattern.Food;
-
 /**
  * 建造者模式demo
  * @author gouyingkui
