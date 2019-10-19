@@ -3,8 +3,6 @@ package mayiwork.pattern.BuilderPattern;
 import java.util.ArrayList;
 import java.util.List;
 
-import mayiwork.pattern.BuilderPattern.Item;
-
 /**
  * 食物构成类
  * @author gouyingkui
