@@ -1,4 +1,4 @@
-package mayiwork.pattern.ChainResponsibilityPattern;
+package mayiwork.pattern.chainResponsibilityPattern;
 
 /**
  * @author yingkuigou

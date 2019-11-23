@@ -1,4 +1,4 @@
-package mayiwork.pattern.ChainResponsibilityPattern;
+package mayiwork.pattern.chainResponsibilityPattern;
 
 /**
  * 日志抽象类

@@ -1,4 +1,4 @@
-package mayiwork.pattern.BuilderPattern;
+package mayiwork.pattern.builderPattern;
 
 /**
  * 包装接口

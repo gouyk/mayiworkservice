@@ -1,6 +1,6 @@
-package mayiwork.pattern.BuilderPattern;
+package mayiwork.pattern.builderPattern;
 
-import mayiwork.pattern.BuilderPattern.impl.Drink;
+import mayiwork.pattern.builderPattern.impl.Drink;
 
 /**
  * Drink的实现类

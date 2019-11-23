@@ -1,6 +1,6 @@
-package mayiwork.pattern.BuilderPattern.impl;
+package mayiwork.pattern.builderPattern.impl;
 
-import mayiwork.pattern.BuilderPattern.Packing;
+import mayiwork.pattern.builderPattern.Packing;
 
 /**
  * Packing的实现类

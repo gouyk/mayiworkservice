@@ -3,8 +3,6 @@ package mayiwork.pattern.proxyPattern;
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 
-import mayiwork.pattern.proxyPattern.impl.RealImage;
-
 /**
  * jdk Proxy
  * @author gouyingkui

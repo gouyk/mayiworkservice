@@ -1,6 +1,6 @@
-package mayiwork.pattern.BuilderPattern;
+package mayiwork.pattern.builderPattern;
 
-import mayiwork.pattern.BuilderPattern.impl.Bugre;
+import mayiwork.pattern.builderPattern.impl.Bugre;
 
 /**
  * 肉食

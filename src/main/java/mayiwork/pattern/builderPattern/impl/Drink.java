@@ -1,7 +1,7 @@
-package mayiwork.pattern.BuilderPattern.impl;
+package mayiwork.pattern.builderPattern.impl;
 
-import mayiwork.pattern.BuilderPattern.Item;
-import mayiwork.pattern.BuilderPattern.Packing;
+import mayiwork.pattern.builderPattern.Item;
+import mayiwork.pattern.builderPattern.Packing;
 
 /**
  * 饮料的抽象类

@@ -4,7 +4,6 @@ import java.lang.reflect.Proxy;
 
 import mayiwork.pattern.proxyPattern.impl.ProxyImage;
 import mayiwork.pattern.proxyPattern.impl.RealImage;
-import org.apache.commons.pool2.proxy.CglibProxySource;
 
 /**
  * 代理模式demo

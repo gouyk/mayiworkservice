@@ -1,12 +1,12 @@
-package mayiwork.pattern.ChainResponsibilityPattern;
+package mayiwork.pattern.chainResponsibilityPattern;
 
 /**
  * @author yingkuigou
- * @date 2019/11/22 23:44
+ * @date 2019/11/22 23:48
  */
-public class ErrorLogger extends AbstractLogger {
+public class InfoLogger extends AbstractLogger {
 
-    public ErrorLogger(Integer level) {
+    public InfoLogger(Integer level) {
         this.level = level;
         System.out.println("this leve is " + this.level);
     }
