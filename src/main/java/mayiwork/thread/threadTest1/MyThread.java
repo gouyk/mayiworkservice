@@ -1,4 +1,4 @@
-package mayiwork.thread;
+package mayiwork.thread.threadTest1;
 
 /**
  * @author yingkuigou
